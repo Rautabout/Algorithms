@@ -93,7 +93,9 @@ namespace QueueProgram
                     Console.WriteLine("Item: {0} ", queue[i]);
                 }
             }
+
             Console.WriteLine();
+
         }
 
     }

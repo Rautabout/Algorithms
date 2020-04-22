@@ -92,9 +92,10 @@ namespace Stack
             {
                 if (stack[i] != null)
                 {
-                    Console.WriteLine("Item: {0} ", stack[i]);
+                    Console.WriteLine("Item: {0}, id: {1}", stack[i],i+1);
                 }
             }
+
             Console.WriteLine();
         }
         public int Capacity()

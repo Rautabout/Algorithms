@@ -5,3 +5,10 @@ F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy_obslugi_masow
 F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy_obslugi_masowej\Algorytm_I\queue\queue\obj\Debug\QueueProgram.csproj.CoreCompileInputs.cache
 F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy_obslugi_masowej\Algorytm_I\queue\queue\obj\Debug\queue.exe
 F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy_obslugi_masowej\Algorytm_I\queue\queue\obj\Debug\queue.pdb
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_obslugi_masowej\Kolejka\queue\bin\Debug\queue.exe.config
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_obslugi_masowej\Kolejka\queue\bin\Debug\queue.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_obslugi_masowej\Kolejka\queue\bin\Debug\queue.pdb
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_obslugi_masowej\Kolejka\queue\obj\Debug\QueueProgram.csprojAssemblyReference.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_obslugi_masowej\Kolejka\queue\obj\Debug\QueueProgram.csproj.CoreCompileInputs.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_obslugi_masowej\Kolejka\queue\obj\Debug\queue.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_obslugi_masowej\Kolejka\queue\obj\Debug\queue.pdb
