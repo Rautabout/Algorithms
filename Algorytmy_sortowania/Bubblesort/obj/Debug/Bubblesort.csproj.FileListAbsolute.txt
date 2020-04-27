@@ -1,0 +1,7 @@
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Bubblesort\bin\Debug\Bubblesort.exe.config
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Bubblesort\bin\Debug\Bubblesort.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Bubblesort\bin\Debug\Bubblesort.pdb
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Bubblesort\obj\Debug\Bubblesort.csprojAssemblyReference.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Bubblesort\obj\Debug\Bubblesort.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Bubblesort\obj\Debug\Bubblesort.pdb

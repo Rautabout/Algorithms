@@ -9,9 +9,9 @@ namespace OneWayList
 
     
     
-    public class OneWayList
+    class OneWayList
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             object[] array = { 12, "ff", 234.3, 23, 65, 87 };
             Node head = ArrayToList(array, array.Length);
@@ -25,7 +25,7 @@ namespace OneWayList
             public object data;
             public Node next;
             
-        };
+        }
         
         
         static Node ArrayToList(object []array, int size)
