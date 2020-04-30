@@ -1,0 +1,7 @@
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_grafowe\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe.config
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_grafowe\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_grafowe\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_grafowe\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojAssemblyReference.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_grafowe\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.CoreCompileInputs.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_grafowe\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_grafowe\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
