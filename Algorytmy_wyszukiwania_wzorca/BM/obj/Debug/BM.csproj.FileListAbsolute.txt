@@ -1,0 +1,7 @@
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_wyszukiwania_wzorca\BM\bin\Debug\BM.exe.config
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_wyszukiwania_wzorca\BM\bin\Debug\BM.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_wyszukiwania_wzorca\BM\bin\Debug\BM.pdb
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_wyszukiwania_wzorca\BM\obj\Debug\BM.csprojAssemblyReference.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_wyszukiwania_wzorca\BM\obj\Debug\BM.csproj.CoreCompileInputs.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_wyszukiwania_wzorca\BM\obj\Debug\BM.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_wyszukiwania_wzorca\BM\obj\Debug\BM.pdb

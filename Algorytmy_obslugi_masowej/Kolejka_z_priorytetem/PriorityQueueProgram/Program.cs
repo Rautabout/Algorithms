@@ -13,7 +13,7 @@ namespace PriorityQueueProgram
         {
             Queue queue = new Queue(4); //size of queue
             queue.Enqueue(3.6,1);
-            queue.Enqueue("kjk",2);
+            queue.Enqueue("kjk",9);
             queue.Enqueue(true,7);
             queue.Enqueue(2.34,8);
             queue.Peek();
@@ -82,6 +82,7 @@ namespace PriorityQueueProgram
         }
         public void Dequeue()
         {
+            OrderByPriority(queue);
             if (start == end)
             {
                 Console.WriteLine("Queue is empty!");
@@ -104,6 +105,7 @@ namespace PriorityQueueProgram
         }
         public void Peek()
         {
+            OrderByPriority(queue);
             if (start == end)
             {
                 Console.WriteLine("Queue is empty!");
@@ -111,6 +113,7 @@ namespace PriorityQueueProgram
             }
             else
             {
+                OrderByPriority(queue);
                 Console.WriteLine("Peek Item: {0} Priority: {1}", queue[0, 0], queue[0, 1]);
             }
             return;

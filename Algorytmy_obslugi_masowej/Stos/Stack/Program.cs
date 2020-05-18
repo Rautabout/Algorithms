@@ -57,33 +57,33 @@ namespace Stack
         
             
         }
-        public object Pop()
+        public void Pop()
         {
             if (top == -1)
             {
                 Console.WriteLine("Stack empty");
-                return false;
+                return;
             }
             else
             {
                 object objectPopped = stack[top];
                 Console.WriteLine("Object popped:{0}", objectPopped);
                 top--;
-                return objectPopped;
+                return;
             }
         }
-        public object Peek()
+        public void Peek()
         {
             if (top == -1)
             {
                 Console.WriteLine("Stack empty");
-                return false;
+                return;
             }
             else
             {
                 object objectPeeked = stack[top];
                 Console.WriteLine("Object peeked:{0}", objectPeeked);
-                return objectPeeked;
+                return;
             }
         }
         public void PrintValues()

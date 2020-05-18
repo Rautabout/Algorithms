@@ -17,7 +17,7 @@ namespace ONP
                 if (whichNotation.ToUpper() == "RPN")
                 {
                     RPNConversion toRPN = new RPNConversion();
-                    toRPN.InfixNotation = "11.56 + 23 * 5 / ( 7 - 8 ) ^ 6";
+                    toRPN.InfixNotation = "11 + 23 * 5 / ( 7 - 8 ) ^ 6";
                     toRPN.ToRPN();
                 }
                 else if (whichNotation.ToUpper() == "INFIX")

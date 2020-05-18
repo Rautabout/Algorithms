@@ -9,11 +9,10 @@ namespace ONP
     class InfixConversion
     {
         public string RPNNotation = null;
-        public String ToInfix(String expression)
+        public string ToInfix(string expression)
         {
             var tokens = RPNNotation.Split(' ');
             Stack<string> s = new Stack<string>();
-            List<string> infixNotation = new List<string>();
 
             foreach (var c in tokens)
             {
@@ -25,9 +24,9 @@ namespace ONP
                     }
                     else
                     {
-                        String p1 = (String)s.Peek();
+                        string p1 = (string)s.Peek();
                         s.Pop();
-                        String p2 = (String)s.Peek();
+                        string p2 = (string)s.Peek();
                         s.Pop();
                         s.Push("(" + p2 + g + p1 + ")");
 
@@ -35,7 +34,7 @@ namespace ONP
                 }
 
             }
-            return (String)s.Peek();
+            return (string)s.Peek();
         }
         private bool IsOperand(char Operator)
         {

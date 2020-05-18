@@ -30,7 +30,7 @@ namespace Dijkstra
             {
                 Console.WriteLine("{0} | {1}", i, distance[i]);
             }
-
+            return;
         }
         void Dijkstra(int[,] graph, int source)
         {
