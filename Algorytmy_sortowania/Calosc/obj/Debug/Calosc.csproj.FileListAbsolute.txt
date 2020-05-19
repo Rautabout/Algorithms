@@ -1,0 +1,7 @@
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Calosc\bin\Debug\Calosc.exe.config
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Calosc\bin\Debug\Calosc.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Calosc\bin\Debug\Calosc.pdb
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Calosc\obj\Debug\Calosc.csprojAssemblyReference.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Calosc\obj\Debug\Calosc.csproj.CoreCompileInputs.cache
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Calosc\obj\Debug\Calosc.exe
+F:\Drive\RMS_INF_ROK2\SEM_4\Algorytmy_i_struktury_danych\Algorytmy\Algorytmy_sortowania\Calosc\obj\Debug\Calosc.pdb
