@@ -1,3 +1,3 @@
 # Algorytmy
 
-Repo zawiera algorytmy wykonywane na potrzeby przedmiotu algorytmy i struktury danych
+Repository contains multiple mathematical algorithms implemented in c#
